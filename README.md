@@ -1,2 +1,4 @@
-# EpicGamesFreeWeekly
-Discord bot which embeds the free games of the week on the Epic Games Store.
+# DiscordEpicGamesFreeWeekly
+
+## Requirements
+	pip install -r requirements.txt
