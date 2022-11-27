@@ -1,5 +1,5 @@
 # DiscordEpicGamesFreeWeekly
-Discord bot written in Python that embeds the latest free games in Discord.
+Discord bot which embeds the free games of the week on the Epic Games Store. 
 
     git clone https://github.com/official-antique/DiscordEpicGamesFreeWeekly
     cd DiscordEpicGamesFreeWeekly
