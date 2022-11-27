@@ -1,7 +1,8 @@
 # DiscordEpicGamesFreeWeekly
+Discord bot written in Python that embeds the latest free games in Discord.
 
-    git clone https://github.com/official-antique/HavocOCRRedditScraper
-    cd HavocOCRRedditScraper
+    git clone https://github.com/official-antique/DiscordEpicGamesFreeWeekly
+    cd DiscordEpicGamesFreeWeekly
     pip install -r requirements.txt
 
 ## Requirements
